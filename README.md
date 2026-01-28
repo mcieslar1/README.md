@@ -1,10 +1,10 @@
 # Michael Cieslar
 
-**Electrical Engineering**
+My major is **Electrical Engineering**
 
-*Undergraduate*
+I am an *Undergraduate* Student
 
-> This is a block quote
+> I attend Stevens Institue of Technology
 
 ---
 
@@ -21,8 +21,8 @@
 ## Code Example
 `Hello, GitHub!`
 
-##Link
+## Link
 This is the link to *[Canvas](https://nmetc.instructure.com/login/canvas)*
 
-##Image
+## Image
 !(https://www.austintec.com/wp-content/uploads/2024/05/what-do-electrical-engineers-do.jpg)
