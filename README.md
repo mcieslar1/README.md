@@ -1,4 +1,4 @@
-# Michael's Repository
+# Michael Cieslar
 
 **Electrical Engineering**
 
@@ -21,6 +21,8 @@
 ## Code Example
 `Hello, GitHub!`
 
+##Link
 This is the link to *[Canvas](https://nmetc.instructure.com/login/canvas)*
 
+##Image
 !(https://www.austintec.com/wp-content/uploads/2024/05/what-do-electrical-engineers-do.jpg)
